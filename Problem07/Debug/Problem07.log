@@ -1,0 +1,7 @@
+﻿  problem07.cpp
+g:\leetcode\sumoftwo\problem07\problem07.cpp(9): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+g:\leetcode\sumoftwo\problem07\problem07.cpp(11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+g:\leetcode\sumoftwo\problem07\problem07.cpp(16): warning C4244: “+=”: 从“double”转换到“__int64”，可能丢失数据
+g:\leetcode\sumoftwo\problem07\problem07.cpp(23): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  Problem07.vcxproj -> G:\leetcode\SumOfTwo\Debug\Problem07.exe
+  Problem07.vcxproj -> G:\leetcode\SumOfTwo\Debug\Problem07.pdb (Partial PDB)

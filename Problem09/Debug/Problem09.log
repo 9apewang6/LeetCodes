@@ -1,0 +1,4 @@
+﻿  huiwenshu.cpp
+g:\leetcode\sumoftwo\problem09\huiwenshu.cpp(14): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+  Problem09.vcxproj -> G:\leetcode\SumOfTwo\Debug\Problem09.exe
+  Problem09.vcxproj -> G:\leetcode\SumOfTwo\Debug\Problem09.pdb (Partial PDB)

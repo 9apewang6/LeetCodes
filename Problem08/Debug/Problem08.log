@@ -1,0 +1,5 @@
+﻿  Problem08.cpp
+g:\leetcode\sumoftwo\problem08\problem08.cpp(64): warning C4244: “+=”: 从“double”转换到“__int64”，可能丢失数据
+g:\leetcode\sumoftwo\problem08\problem08.cpp(69): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  Problem08.vcxproj -> G:\leetcode\SumOfTwo\Debug\Problem08.exe
+  Problem08.vcxproj -> G:\leetcode\SumOfTwo\Debug\Problem08.pdb (Partial PDB)

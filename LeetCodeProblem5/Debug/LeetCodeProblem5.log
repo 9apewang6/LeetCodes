@@ -1,0 +1,6 @@
+﻿  Palindrome.cpp
+g:\leetcode\sumoftwo\leetcodeproblem5\palindrome.cpp(173): warning C4018: “<”: 有符号/无符号不匹配
+g:\leetcode\sumoftwo\leetcodeproblem5\palindrome.cpp(182): warning C4018: “<”: 有符号/无符号不匹配
+g:\leetcode\sumoftwo\leetcodeproblem5\palindrome.cpp(295): warning C4018: “<”: 有符号/无符号不匹配
+  LeetCodeProblem5.vcxproj -> G:\leetcode\SumOfTwo\Debug\LeetCodeProblem5.exe
+  LeetCodeProblem5.vcxproj -> G:\leetcode\SumOfTwo\Debug\LeetCodeProblem5.pdb (Partial PDB)

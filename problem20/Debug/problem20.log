@@ -1,0 +1,4 @@
+﻿  problem20.cpp
+g:\leetcode\sumoftwo\problem20\problem20.cpp(69): warning C4018: “<”: 有符号/无符号不匹配
+  problem20.vcxproj -> G:\leetcode\SumOfTwo\Debug\problem20.exe
+  problem20.vcxproj -> G:\leetcode\SumOfTwo\Debug\problem20.pdb (Partial PDB)
